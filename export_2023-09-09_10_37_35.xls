@@ -1,0 +1,613 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>Worksheet</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table><head></head><body><table class="mud-table-root"><thead class="mud-table-head"><!--!--><tr class="mud-table-row"><!--!--><th scope="col" class="mud-table-cell"><!--!-->Ngày bay</th><!--!-->
+				<!--!--><th scope="col" class="mud-table-cell">S,E,A-OBT</th><!--!-->
+				<!--!--><th scope="col" class="mud-table-cell"><!--!-->Hãng</th><!--!-->
+				<!--!--><th scope="col" class="mud-table-cell"><!--!-->Chuyến</th><!--!-->
+				<!--!--><th scope="col" class="mud-table-cell"><!--!-->Đăng bạ/Chủng loại</th><!--!-->
+				<!--!--><th scope="col" class="mud-table-cell"><!--!-->Chặng</th><!--!-->
+				<!--!--><th scope="col" class="mud-table-cell">TSAT</th><!--!-->
+				<!--!--><th scope="col" class="mud-table-cell">C,T,A-TOT</th><!--!-->
+				<!--!--><th scope="col" class="mud-table-cell">Checkin/Gate</th><!--!-->
+				<!--!--><th scope="col" class="mud-table-cell"><!--!-->Nhà ga/Băng tải</th><!--!-->
+				<!--!--><th scope="col" class="mud-table-cell"><!--!-->Run way/Vị trí</th><!--!-->
+				<!--!--><th scope="col" class="mud-table-cell"><!--!-->Loại</th><!--!-->
+				<!--!--><th scope="col" class="mud-table-cell"><!--!-->Trạng thái</th></tr></thead><tbody class="mud-table-body"><!--!--><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0020<!--!--> <br b-4unsvny0y4=""> 0020<!--!--> <br b-4unsvny0y4=""> 0020</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VN346</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA398<!--!--> <br b-4unsvny0y4=""> A321</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-NGO</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0015</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0039<!--!--> <br b-4unsvny0y4=""> 0037</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">G1-G12<!--!--> <br b-4unsvny0y4=""> 29</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> 3</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 21</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0020<!--!--> <br b-4unsvny0y4=""> 0020<!--!--> <br b-4unsvny0y4=""> 0020</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VN310</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA886<!--!--> <br b-4unsvny0y4=""> A359</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-NRT</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0026</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0040<!--!--> <br b-4unsvny0y4=""> 0040</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">G1-G12<!--!--> <br b-4unsvny0y4=""> 20</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> 4</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 27</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0025<!--!--> <br b-4unsvny0y4=""> 0025<!--!--> <br b-4unsvny0y4=""> 0025</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/QH.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/QH.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">QH412</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA590<!--!--> <br b-4unsvny0y4=""> A21N</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-NRT</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0014</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0032<!--!--> <br b-4unsvny0y4=""> 0032</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">E8-E12<!--!--> <br b-4unsvny0y4=""> 25</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> 1</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 36A</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0030<!--!--> <br b-4unsvny0y4=""> 0030<!--!--> <br b-4unsvny0y4=""> 0030</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VN330</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA888<!--!--> <br b-4unsvny0y4=""> A359</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-KIX</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0034</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0045<!--!--> <br b-4unsvny0y4=""> 0046</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">G1-G12<!--!--> <br b-4unsvny0y4=""> 23</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> 4</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 24</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0030<!--!--> <br b-4unsvny0y4=""> 0030<!--!--> <br b-4unsvny0y4=""> 0045</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/RH.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/RH.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">RH318</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">BLNV<!--!--> <br b-4unsvny0y4=""> A332</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-HKG</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell"></td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> <!--!--> <br b-4unsvny0y4=""> 0057</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 50</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">CGO</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0030<!--!--> <br b-4unsvny0y4=""> 0030<!--!--> <br b-4unsvny0y4=""> 0030</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VJ932</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA600<!--!--> <br b-4unsvny0y4=""> A21N</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-NRT</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0056</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0059<!--!--> <br b-4unsvny0y4=""> 0101</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">B1-B12<!--!--> <br b-4unsvny0y4=""> 26</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> 2</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 35</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0055<!--!--> <br b-4unsvny0y4=""> 0055<!--!--> <br b-4unsvny0y4=""> 0050</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VJ982</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA642<!--!--> <br b-4unsvny0y4=""> A321</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-PUS</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0056</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0105<!--!--> <br b-4unsvny0y4=""> 0104</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">B1-B12<!--!--> <br b-4unsvny0y4=""> 24</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> 2</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 23</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0105<!--!--> <br b-4unsvny0y4=""> 0105<!--!--> <br b-4unsvny0y4=""> 0105</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VN426</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA508<!--!--> <br b-4unsvny0y4=""> A21N</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-PUS</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0106</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0117<!--!--> <br b-4unsvny0y4=""> 0118</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">G1-G12<!--!--> <br b-4unsvny0y4=""> 28</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> 3</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 22</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0115<!--!--> <br b-4unsvny0y4=""> 0115<!--!--> <br b-4unsvny0y4=""> 0113</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VN356</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA625<!--!--> <br b-4unsvny0y4=""> A21N</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-FUK</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0112</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0122<!--!--> <br b-4unsvny0y4=""> 0122</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">G1-G12<!--!--> <br b-4unsvny0y4=""> 30</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> 4</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 20</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0115<!--!--> <br b-4unsvny0y4=""> 0145<!--!--> <br b-4unsvny0y4=""> 0134</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/7C.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/7C.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">7C2804</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">HL8302<!--!--> <br b-4unsvny0y4=""> B738</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-ICN</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0142</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0150<!--!--> <br b-4unsvny0y4=""> 0147</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">F1-F4<!--!--> <br b-4unsvny0y4=""> 32</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> 1</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 18</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0120<!--!--> <br b-4unsvny0y4=""> 0120<!--!--> <br b-4unsvny0y4=""> 0115</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VJ938</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA607<!--!--> <br b-4unsvny0y4=""> A21N</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-KIX</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0118</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0129<!--!--> <br b-4unsvny0y4=""> 0130</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">B1-B12<!--!--> <br b-4unsvny0y4=""> 33</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> 2</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 17</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0130<!--!--> <br b-4unsvny0y4=""> 0130<!--!--> <br b-4unsvny0y4=""> 0125</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/EK.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/EK.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">EK395</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">A6ENH<!--!--> <br b-4unsvny0y4=""> B77W</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-DXB</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0125</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0133<!--!--> <br b-4unsvny0y4=""> 0138</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">A1-A10<!--!--> <br b-4unsvny0y4=""> 35</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> 1</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 15</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0145<!--!--> <br b-4unsvny0y4=""> 0210<!--!--> <br b-4unsvny0y4=""> 0210</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/PR.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/PR.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">PR596</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">RPC9902<!--!--> <br b-4unsvny0y4=""> A321</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-MNL</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0210</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0218<!--!--> <br b-4unsvny0y4=""> 0233</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">E1-E4<!--!--> <br b-4unsvny0y4=""> 31</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> 3</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 19</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0150<!--!--> <br b-4unsvny0y4=""> 0150<!--!--> <br b-4unsvny0y4=""> 0159</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VJ960</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA529<!--!--> <br b-4unsvny0y4=""> A21N</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-ICN</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0150</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0159<!--!--> <br b-4unsvny0y4=""> 0212</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">B1-B12<!--!--> <br b-4unsvny0y4=""> 21</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> 2</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 26</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0200<!--!--> <br b-4unsvny0y4=""> 0200<!--!--> <br b-4unsvny0y4=""> 0215</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/ZH.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/ZH.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">ZH9088</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">B8636<!--!--> <br b-4unsvny0y4=""> A320</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-SZX</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0201</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0210<!--!--> <br b-4unsvny0y4=""> 0226</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">D9-D12<!--!--> <br b-4unsvny0y4=""> 34</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> 1</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 16</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0205<!--!--> <br b-4unsvny0y4=""> 0205<!--!--> <br b-4unsvny0y4=""> 0158</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VJ958</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA693<!--!--> <br b-4unsvny0y4=""> A21N</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-FUK</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0205</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0213<!--!--> <br b-4unsvny0y4=""> 0214</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">B1-B12<!--!--> <br b-4unsvny0y4=""> 36</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> 2</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 14</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0220<!--!--> <br b-4unsvny0y4=""> 0220<!--!--> <br b-4unsvny0y4=""> 0215</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/MU.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/MU.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">MU5076</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">B303F<!--!--> <br b-4unsvny0y4=""> A20N</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-PVG</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0220</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0229<!--!--> <br b-4unsvny0y4=""> 0224</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">F9-F12<!--!--> <br b-4unsvny0y4=""> 29</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> 4</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 21</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0230<!--!--> <br b-4unsvny0y4=""> 0230<!--!--> <br b-4unsvny0y4=""> 0219</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/QH.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/QH.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">QH450</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA227<!--!--> <br b-4unsvny0y4=""> A321</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-ICN</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0230</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0239<!--!--> <br b-4unsvny0y4=""> 0230</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">E8-E12<!--!--> <br b-4unsvny0y4=""> 22</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> 1</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 25</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0310<!--!--> <br b-4unsvny0y4=""> 0310<!--!--> <br b-4unsvny0y4=""> 0300</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/6E.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/6E.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">6E1632</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VTIJX<!--!--> <br b-4unsvny0y4=""> A20N</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-CCU</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0302</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0309<!--!--> <br b-4unsvny0y4=""> 0310</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">D1-D4<!--!--> <br b-4unsvny0y4=""> 32</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> 3</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 18</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0345<!--!--> <br b-4unsvny0y4=""> 0345<!--!--> <br b-4unsvny0y4=""> 0340</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/7C.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/7C.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">7C9206</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">HL8295<!--!--> <br b-4unsvny0y4=""> B738</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-ICN</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0334</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0347<!--!--> <br b-4unsvny0y4=""> 0350</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 53</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">CGO</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0405<!--!--> <br b-4unsvny0y4=""> 0405<!--!--> <br b-4unsvny0y4=""> 0405</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/OZ.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/OZ.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">OZ952</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">HL7415<!--!--> <br b-4unsvny0y4=""> B744</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-HKG</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0403</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0417<!--!--> <br b-4unsvny0y4=""> 0419</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 50</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">CGO</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0415<!--!--> <br b-4unsvny0y4=""> 0415<!--!--> <br b-4unsvny0y4=""> 0415</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/OZ.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/OZ.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">OZ388</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">HL7616<!--!--> <br b-4unsvny0y4=""> B744</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-ICN</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0405</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0421<!--!--> <br b-4unsvny0y4=""> 0422</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 36</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">CGO</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0440<!--!--> <br b-4unsvny0y4=""> 0440<!--!--> <br b-4unsvny0y4=""> 0430</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/CV.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/CV.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">CV7625</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">LXVCE<!--!--> <br b-4unsvny0y4=""> B748</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-HKG</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0430</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0439<!--!--> <br b-4unsvny0y4=""> 0441</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 35</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">CGO</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0455<!--!--> <br b-4unsvny0y4=""> 0455<!--!--> <br b-4unsvny0y4=""> 0500</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/KE.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/KE.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">KE362</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">HL7605<!--!--> <br b-4unsvny0y4=""> B744</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-ICN</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0500</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0517<!--!--> <br b-4unsvny0y4=""> 0518</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 54</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">CGO</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0500<!--!--> <br b-4unsvny0y4=""> 0500<!--!--> <br b-4unsvny0y4=""> 0500</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VN205</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA511<!--!--> <br b-4unsvny0y4=""> A21N</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-SGN</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0459</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0513<!--!--> <br b-4unsvny0y4=""> 0515</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">B04-08<!--!--> <br b-4unsvny0y4=""> 2</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> 3</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 83</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0505<!--!--> <br b-4unsvny0y4=""> 0505<!--!--> <br b-4unsvny0y4=""> 0505</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/KJ.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/KJ.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">KJ512</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">HL8319<!--!--> <br b-4unsvny0y4=""> B738</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-ICN</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0500</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0521<!--!--> <br b-4unsvny0y4=""> 0521</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 78</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">CGO</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0510<!--!--> <br b-4unsvny0y4=""> 0510<!--!--> <br b-4unsvny0y4=""> 0510</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VJ199</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA656<!--!--> <br b-4unsvny0y4=""> A320</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-SGN</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0518</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0527<!--!--> <br b-4unsvny0y4=""> 0528</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">A01-14<!--!--> <br b-4unsvny0y4=""> 1</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> 6</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 80</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0530<!--!--> <br b-4unsvny0y4=""> 0530<!--!--> <br b-4unsvny0y4=""> 0530</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/QH.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/QH.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">QH101</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA595<!--!--> <br b-4unsvny0y4=""> A20N</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-DAD</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0529</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0545<!--!--> <br b-4unsvny0y4=""> 0545</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">A17-32<!--!--> <br b-4unsvny0y4=""> 12</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> 4</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 40</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0535<!--!--> <br b-4unsvny0y4=""> 0535<!--!--> <br b-4unsvny0y4=""> 0527</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/QH.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/QH.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">QH201</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA587<!--!--> <br b-4unsvny0y4=""> A320</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-SGN</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0528</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0542<!--!--> <br b-4unsvny0y4=""> 0542</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">A17-32<!--!--> <br b-4unsvny0y4=""> 3</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> 4</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 49</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0550<!--!--> <br b-4unsvny0y4=""> 0550<!--!--> <br b-4unsvny0y4=""> 0548</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VJ403</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA524<!--!--> <br b-4unsvny0y4=""> A21N</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-DLI</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0549</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0603<!--!--> <br b-4unsvny0y4=""> 0604</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">E18-29<!--!--> <br b-4unsvny0y4=""> 15</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 75</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0555<!--!--> <br b-4unsvny0y4=""> 0555<!--!--> <br b-4unsvny0y4=""> 0552</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/QH.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/QH.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">QH1033</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA262<!--!--> <br b-4unsvny0y4=""> E190</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-VCS</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0550</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0606<!--!--> <br b-4unsvny0y4=""> 0606</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">A17-32<!--!--> <br b-4unsvny0y4=""> 11</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> 4</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 12C</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0600<!--!--> <br b-4unsvny0y4=""> 0600<!--!--> <br b-4unsvny0y4=""> 0600</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VN243</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA608<!--!--> <br b-4unsvny0y4=""> A321</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-SGN</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0556</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0608<!--!--> <br b-4unsvny0y4=""> 0609</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">B04-08<!--!--> <br b-4unsvny0y4=""> 8</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> 3</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 50</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0600<!--!--> <br b-4unsvny0y4=""> 0600<!--!--> <br b-4unsvny0y4=""> 0555</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VJ121</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA676<!--!--> <br b-4unsvny0y4=""> A320</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-SGN</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0602</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0612<!--!--> <br b-4unsvny0y4=""> 0613</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">A01-14<!--!--> <br b-4unsvny0y4=""> 6</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> 6</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 52</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0605<!--!--> <br b-4unsvny0y4=""> 0605<!--!--> <br b-4unsvny0y4=""> 0603</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VJ435</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA699<!--!--> <br b-4unsvny0y4=""> A320</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-UIH</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0604</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0616<!--!--> <br b-4unsvny0y4=""> 0616</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">E18-29<!--!--> <br b-4unsvny0y4=""> 5</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 48</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0610<!--!--> <br b-4unsvny0y4=""> 0610<!--!--> <br b-4unsvny0y4=""> 0616</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VU.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VU.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VU241</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA288<!--!--> <br b-4unsvny0y4=""> A321</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-DLI</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0614</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0631<!--!--> <br b-4unsvny0y4=""> 0631</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">E04-08<!--!--> <br b-4unsvny0y4=""> 16</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 72</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0615<!--!--> <br b-4unsvny0y4=""> 0615<!--!--> <br b-4unsvny0y4=""> 0614</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VN1615</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA617<!--!--> <br b-4unsvny0y4=""> A21N</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-PXU</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0610</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0622<!--!--> <br b-4unsvny0y4=""> 0624</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">B09-13<!--!--> <br b-4unsvny0y4=""> 4</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> 1</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 53</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0615<!--!--> <br b-4unsvny0y4=""> 0615<!--!--> <br b-4unsvny0y4=""> 0624</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VJ491</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA540<!--!--> <br b-4unsvny0y4=""> A21N</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-BMV</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0627</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0637<!--!--> <br b-4unsvny0y4=""> 0640</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">E18-29<!--!--> <br b-4unsvny0y4=""> 13</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 14</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0620<!--!--> <br b-4unsvny0y4=""> 0620<!--!--> <br b-4unsvny0y4=""> 0618</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/BL.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/BL.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">BL6025</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA564<!--!--> <br b-4unsvny0y4=""> A320</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-SGN</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0616</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0630<!--!--> <br b-4unsvny0y4=""> 0629</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">E12-16<!--!--> <br b-4unsvny0y4=""> 17</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 28B</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0700<!--!--> <br b-4unsvny0y4=""> 0700<!--!--> <br b-4unsvny0y4=""> 0650</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VJ123</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA687<!--!--> <br b-4unsvny0y4=""> A321</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-SGN</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0656</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0706<!--!--> <br b-4unsvny0y4=""> 0707</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">A01-14<!--!--> <br b-4unsvny0y4=""> 6</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> 6</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 47</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0700<!--!--> <br b-4unsvny0y4=""> 0700<!--!--> <br b-4unsvny0y4=""> 0656</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/BL.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/BL.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">BL6077</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA566<!--!--> <br b-4unsvny0y4=""> A320</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-DAD</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0656</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0709<!--!--> <br b-4unsvny0y4=""> 0710</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">E12-16<!--!--> <br b-4unsvny0y4=""> 17</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 42</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0705<!--!--> <br b-4unsvny0y4=""> 0705<!--!--> <br b-4unsvny0y4=""> 0705</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VN1553</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA509<!--!--> <br b-4unsvny0y4=""> A21N</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-CXR</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0704</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0720<!--!--> <br b-4unsvny0y4=""> 0719</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">B09-13<!--!--> <br b-4unsvny0y4=""> 2</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> 1</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 85</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0720<!--!--> <br b-4unsvny0y4=""> 0720<!--!--> <br b-4unsvny0y4=""> 0715</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VN1715</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA332<!--!--> <br b-4unsvny0y4=""> A321</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-VII</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0715</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0726<!--!--> <br b-4unsvny0y4=""> 0726</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">B09-13<!--!--> <br b-4unsvny0y4=""> 9</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> 1</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 43A</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0720<!--!--> <br b-4unsvny0y4=""> 0720<!--!--> <br b-4unsvny0y4=""> 0713</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/QH.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/QH.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">QH203</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA582<!--!--> <br b-4unsvny0y4=""> A320</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-SGN</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0716</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0729<!--!--> <br b-4unsvny0y4=""> 0729</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">A17-32<!--!--> <br b-4unsvny0y4=""> 7</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> 4</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 46</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0725<!--!--> <br b-4unsvny0y4=""> 0725<!--!--> <br b-4unsvny0y4=""> 0727</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/QH.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/QH.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">QH1035</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA266<!--!--> <br b-4unsvny0y4=""> E190</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-VCS</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0724</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0740<!--!--> <br b-4unsvny0y4=""> 0734</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">A17-32<!--!--> <br b-4unsvny0y4=""> 12</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> 4</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 81</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CKI</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0725<!--!--> <br b-4unsvny0y4=""> 0725<!--!--> <br b-4unsvny0y4=""> 0726</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VU.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VU.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VU635</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA289<!--!--> <br b-4unsvny0y4=""> A321</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-DAD</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0726</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0738<!--!--> <br b-4unsvny0y4=""> 0738</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">E04-08<!--!--> <br b-4unsvny0y4=""> 16</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 28A</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0725<!--!--> <br b-4unsvny0y4=""> 0840<!--!--> <br b-4unsvny0y4=""> 0852</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/QR.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/QR.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">QR8955</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">A7BFF<!--!--> <br b-4unsvny0y4=""> B77L</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-DOH</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0846</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0859<!--!--> <br b-4unsvny0y4=""> 0901</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 50</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">CGO</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0735<!--!--> <br b-4unsvny0y4=""> 0735<!--!--> <br b-4unsvny0y4=""> 0729</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VJ940</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA675<!--!--> <br b-4unsvny0y4=""> A320</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-TPE</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0730</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0742<!--!--> <br b-4unsvny0y4=""> 0742</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">B1-B9<!--!--> <br b-4unsvny0y4=""> 23</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> 1</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 24</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0740<!--!--> <br b-4unsvny0y4=""> 0740<!--!--> <br b-4unsvny0y4=""> 0736</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VN.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VN661</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA390<!--!--> <br b-4unsvny0y4=""> A321</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-SIN</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0735</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0746<!--!--> <br b-4unsvny0y4=""> 0749</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">G1-G12<!--!--> <br b-4unsvny0y4=""> 20</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T2<!--!-->  <br b-4unsvny0y4=""> 4</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 27</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0750<!--!--> <br b-4unsvny0y4=""> 0750<!--!--> <br b-4unsvny0y4=""> 0746</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/VJ.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">VJ453</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA631<!--!--> <br b-4unsvny0y4=""> A321</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-PQC</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0745</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0804<!--!--> <br b-4unsvny0y4=""> 0800</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">E18-29<!--!--> <br b-4unsvny0y4=""> 14</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> </td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 29</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr><!--!--><tr class="mud-table-row" style=""><!--!--><td data-label="Ngày bay" class="mud-table-cell">09/09</td><!--!-->
+				<!--!--><td data-label="S,E,A-OBT" class="mud-table-cell">0750<!--!--> <br b-4unsvny0y4=""> 0750<!--!--> <br b-4unsvny0y4=""> 0750</td><!--!-->
+				<!--!--><td data-label="Hãng" class="mud-table-cell"><!--!--><a href="_content/BlazorSharedUI/Assets/logo-flights/QH.png?alt=media">_content/BlazorSharedUI/Assets/logo-flights/QH.png?alt=media</a></td><!--!-->
+				<!--!--><td data-label="Chuyến" class="mud-table-cell">QH1621</td><!--!-->
+				<!--!--><td data-label="Đăng bạ/Chủng loại" class="mud-table-cell">VNA596<!--!--> <br b-4unsvny0y4=""> A20N</td><!--!-->
+				<!--!--><td data-label="Chặng" class="mud-table-cell">HAN-PQC</td><!--!-->
+				<!--!--><td data-label="TSAT" class="mud-table-cell">0801</td><!--!-->
+				<!--!--><td data-label="C,T,A-TOT" class="mud-table-cell"><!--!--> <br b-4unsvny0y4=""> 0815<!--!--> <br b-4unsvny0y4=""> 0816</td><!--!-->
+				<!--!--><td data-label="Cki/Gate" class="mud-table-cell">A17-32<!--!--> <br b-4unsvny0y4=""> 1</td><!--!-->
+				<!--!--><td data-label="Nhà ga/Băng tải" class="mud-table-cell">T1<!--!-->  <br b-4unsvny0y4=""> 4</td><!--!-->
+				<!--!--><td data-label="Run way/Vị trí" class="mud-table-cell">11R<!--!--> <br b-4unsvny0y4=""> 82</td><!--!-->
+				<!--!--><td data-label="Loại" class="mud-table-cell">PAX</td><!--!-->
+				<!--!--><td data-label="Trạng thái" class="mud-table-cell">CLS</td></tr></tbody></table></body></table></body></html>
